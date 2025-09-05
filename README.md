@@ -5,4 +5,4 @@
 - 💻 Building projects in full-stack & AI/ML.
 - 
 ## 📊 GitHub Stats
-![Samridh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamridhShetty&show_icons=true&theme=radical)
+![Samridh's GitHub stats](https://github-readme-stats.vercel.app/api?username=samxshetty&show_icons=true&theme=radical)
